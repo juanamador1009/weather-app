@@ -16,6 +16,20 @@ This is a basic weather information viewer that allows you to check the weather 
 - **API:** OpenWeather (https://openweathermap.org/)
 - **Backend Hosting:** Render (https://render.com/)
 
+## 📸 Screenshots
+
+##### 1. Weather Desktop Display
+
+![Weather Display](./design/desktop.png)
+
+##### 2. Weather Mobile Display
+
+![Weather Display](./design/mobile.png)
+
+##### 4. Message Active State
+
+![Invalid City](./design/invalid_city.png)
+
 ## Project Structure
 
 ```
@@ -89,21 +103,6 @@ The frontend handles different server responses to inform the user:
 
 - **400 / 404**: City not found or missing parameter.
 - **500**: Server error.
-
-## 📸 Screenshots
-
-##### 1. Weather Desktop Display
-
-![Weather Display](./design/desktop.png)
-
-##### 2. Weather Mobile Display
-
-![Weather Display](./design/mobile.png)
-
-##### 4. Message Active State
-
-![Invalid City](./design/invalid_city.png)
-
 ---
 
 ## 👨‍💻 Author
