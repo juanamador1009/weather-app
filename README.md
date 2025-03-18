@@ -26,7 +26,7 @@ This is a basic weather information viewer that allows you to check the weather 
 
 ![Weather Display](./design/mobile.png)
 
-##### 4. Message Active State
+##### 3. Message Active State
 
 ![Invalid City](./design/invalid_city.png)
 
